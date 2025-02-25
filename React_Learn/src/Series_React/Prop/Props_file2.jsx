@@ -21,8 +21,10 @@ export default User;
 export function User2({arr}){
 
     return(
-
+         <>
         <h1>{arr[1]}</h1>
+        <h1>{arr[2]}</h1>
+        </>
 
     )
 }

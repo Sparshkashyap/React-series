@@ -21,6 +21,7 @@ function Prop(){
     <User ob={ob}/>
     <User ob={ob1}/>
     <User2 arr={array}/>
+    <User2 arr={array}/>
     </>
 
     )
