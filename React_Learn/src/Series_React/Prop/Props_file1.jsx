@@ -1,7 +1,10 @@
+import DefaultProp from './Prop_file3.jsx';
 import User, { User2 } from './Props_file2.jsx';
+import Head from '../Header.jsx';
 
 function Prop(){
-    
+
+
     const ob={
     name:"Sparsh kashayp",
     age :20,
@@ -21,9 +24,9 @@ function Prop(){
     <User ob={ob}/>
     <User ob={ob1}/>
     <User2 arr={array}/>
-    <User2 arr={array}/>
+    <Head/>
+    <DefaultProp/>
     </>
-
     )
 }
 

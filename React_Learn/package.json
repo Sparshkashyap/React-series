@@ -10,10 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "prop-types": "^15.8.1",
     "react": "19.0.0-rc.1",
+    "react-bootstrap": "^2.10.9",
     "react-dom": "19.0.0-rc.1",
-    "react_learn": "link:"
+    "react_learn": "link:",
+    "style": "^0.0.3",
+    "styled-components": "^6.1.15"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
