@@ -1,0 +1,66 @@
+
+body{
+
+   
+    font-family: Segoe UI;
+    /* background-color: rgb(232, 206, 206); */
+    margin: 0;
+}
+
+.parent{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(224, 137, 211);
+    border-radius: 0.3rem;
+    
+}
+
+.child{
+
+    display:flex;
+    height: 4rem;
+    padding-left: 15rem;
+    gap: 5rem;
+    list-style-type:none;
+    text-decoration:none;
+}
+
+.li{
+
+    text-decoration: none;
+    font-size: 1.19rem;
+    
+}
+
+.page{
+
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    height: 27rem;
+    width: 50rem;
+    margin-top: 1.5rem;
+    margin-left: 18rem;
+    
+}
+
+.College_parent{
+    justify-items: center;
+    font-size: 1.5rem;
+}
+
+.College_child{
+    display: flex;
+    gap: 2rem;
+    font-size: 1.3rem;
+}
+
+.active{
+
+    font-size: 1.5rem;
+    color: azure;
+}
