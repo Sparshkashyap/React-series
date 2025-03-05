@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Radhika",
+      "age": "21",
+      "email": "Radhika@email.com",
+      "id": "6c8e"
+    },
+    {
+      "name": "Lucci ",
+      "age": "23",
+      "email": "Lucci@gmail.com",
+      "id": "d46b"
+    },
+    {
+      "id": "3342",
+      "name": "sparsh kashyap",
+      "age": "21",
+      "email": "sparsh@gmail.com"
+    },
+    {
+      "id": "bf8f",
+      "name": "Neha verma",
+      "age": "20",
+      "email": "Neha@gmail.com"
+    }
+  ]
+}

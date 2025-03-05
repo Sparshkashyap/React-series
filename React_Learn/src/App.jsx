@@ -58,7 +58,8 @@ function App(){
       <Head/>
       <UseEffectProp02/>
       <Head/> */}
-      <AppStyle />
+      {/* <AppStyle /> */}
+      
 
     </>
   )

@@ -9,7 +9,6 @@ import LazyLoadingUser from './Validation/LazyLoading_02'
 import UserAPI from './FetchAPI/Used_useAPI'
 import ColorMixer from './FetchAPI/Assignment_02/ColorMixer_01'
 import Parent from './Logical_concept/Parent'
-import Practice from './Practice'
 
 
 
@@ -27,7 +26,7 @@ function App() {
      {/* <UserAPI/> */}
      {/* <ColorMixer/> */}
      {/* <Parent/> */}
-     <Practice/>
+    
      </BrowserRouter>
     
     </>
